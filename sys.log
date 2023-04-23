@@ -1,0 +1,771 @@
+INFO:root:this output is in the right format
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:18.7.18
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:18.8.27
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:18.8.53
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:18.9.16
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:18.10.23
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:18.10.37
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:18.10.45
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.11.29
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.11.45
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.32.3
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.32.18
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.33.5
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.37.6
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.37.30
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.37.48
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.38.1
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.38.29
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.38.55
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.39.16
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.39.49
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.40.22
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.40.36
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.41.35
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.41.50
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.41.58
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.42.29
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.43.4
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.43.28
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:18.43.44
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+INFO:root:18.43.53
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+INFO:root:18.44.0
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+INFO:root:21.23.38
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 470
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 4.58 Feels like Temperture = -1.34 Weather Description: overcast clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:21.24.14
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 470
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 4.59 Feels like Temperture = -1.33 Weather Description: overcast clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Quarantine rules to be relaxed for business travellers - BBC News': 'The business trips must result in a deal which secures 50 jobs or leads to a £100,000 investment.', 'Avonmouth explosion: Four dead in Bristol water works blast - BBC News': 'Another person was hurt after a "very loud explosion" was heard from a silo at the site in Bristol.', "Gaia 'discovery machine' updates star catalogue - BBC News": "The world's most productive astronomical facility releases its third big tranche of sky data."}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:There is an issue with get_daily_information function
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:21.24.24
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:The get_date_print funtion works as expected
+INFO:root:get_day has returned the right day
+INFO:root:Convert_to_seconds works for every format
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 470
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 4.59 Feels like Temperture = -1.33 Weather Description: overcast clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Quarantine rules to be relaxed for business travellers - BBC News': 'The business trips must result in a deal which secures 50 jobs or leads to a £100,000 investment.', 'Avonmouth explosion: Four dead in Bristol water works blast - BBC News': 'Another person was hurt after a "very loud explosion" was heard from a silo at the site in Bristol.', "Gaia 'discovery machine' updates star catalogue - BBC News": "The world's most productive astronomical facility releases its third big tranche of sky data."}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:There is an issue with get_daily_information function
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.36.5
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.36.42
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.66 Feels like Temperture = 0.85 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.36.58
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.66 Feels like Temperture = 0.85 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.37.58
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.38.28
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.39.42
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.40.37
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.66 Feels like Temperture = 0.85 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.41.8
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+INFO:root:this is the output of the notification_test
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.41.53
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+INFO:root:this is the output of the notification_test
+INFO:root:[{'title': 'alarm', 'content': 'hello'}]
+INFO:root:this is to test the output of the annoncements
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.42.12
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.66 Feels like Temperture = 0.85 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 458
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+INFO:root:this is the output of the notification_test
+INFO:root:[{'title': 'alarm', 'content': 'hello'}]
+INFO:root:this is to test the output of the annoncements
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.42.36
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+INFO:root:this is the output of the notification_test
+INFO:root:[{'title': 'alarm', 'content': 'hello'}]
+INFO:root:this is to test the output of the annoncements
+INFO:root:this functions tests the funtion get_time_calculate to make sure it is getting the right output
+INFO:root:10.43.26
+INFO:root:the output for get_time_calculate is in the right format
+INFO:root:here we will be testing all the funtions relating to retrival of the current date
+INFO:root:The get_data_print funtion has not worked as expected
+INFO:root:get_day has returned the right day
+INFO:root:Here we test the convert to seconds funtion which will take a time in many forms, all which will be tested
+INFO:root:Convert_to_seconds works for every format
+INFO:root:this test will be seeing if all of the third parties are still working
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+INFO:root:The get_weather function seems to be working fine
+INFO:root:Air Temperture = 5.65 Feels like Temperture = 0.84 Weather Description: few clouds Location name: Exeter
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_news function seems to be working fine
+INFO:root:{'Avonmouth explosion: Investigation after four killed in blast - BBC News': 'Three employees and a contractor were killed in the blast at a water recycling centre in Avonmouth.', 'Nasa to pay company $1 to collect rocks from moon - BBC News': 'The US space agency has awarded two American and one Japanese firm contracts to pick up lunar soil.'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+INFO:root:The get_daily_information function seems to be working fine
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The local_infection_rate function seems to be working fine
+INFO:root:0.025754985754985756
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:The get_england_rates function seems to be working fine
+INFO:root:{'data': [{'date': '2020-12-01', 'areaName': 'South West', 'areaCode': 'E12000009', 'newCasesByPublishDate': 687, 'cumCasesByPublishDate': None, 'newDeathsByDeathDate': 19, 'cumDeathsByDeathDate': 3246, 'hospitalCases': None, 'covidOccupiedMVBeds': None, 'cumCasesBySpecimenDateRate': 1446.4}], 'lastUpdate': '2020-12-03T15:28:43.000000Z', 'length': 1, 'totalPages': 1}
+INFO:root:these tests consit of the same funtions as in the alarm system however they have been changed to return there values instead of rendering the render_template which will be tested seperately
+INFO:root:This is the output of the daily_notifications_test
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): newsapi.org:443
+DEBUG:urllib3.connectionpool:https://newsapi.org:443 "GET /v2/top-headlines?country=gb&apiKey=de6df29d278a48378d35789447cd8f14 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:{'date': 'The current date is Friday 4/12/2020'}
+INFO:root:this is the output of the notification_test
+INFO:root:[{'title': 'alarm', 'content': 'hello'}]
+INFO:root:here is the scheduled list after the sched_notfications test
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): api.openweathermap.org:80
+DEBUG:urllib3.connectionpool:http://api.openweathermap.org:80 "GET /data/2.5/weather?appid=a29c2d6763087dabde7a18ed16e1da2a&q=Exeter HTTP/1.1" 200 460
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=1 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.coronavirus.data.gov.uk:443
+DEBUG:urllib3.connectionpool:https://api.coronavirus.data.gov.uk:443 "GET /v1/data?filters=areaType%3Dregion%3BareaName%3DSouth+West%3Bdate%3D2020-12-01&structure=%7B%22date%22%3A%22date%22%2C%22areaName%22%3A%22areaName%22%2C%22areaCode%22%3A%22areaCode%22%2C%22newCasesByPublishDate%22%3A%22newCasesByPublishDate%22%2C%22cumCasesByPublishDate%22%3A%22cumCasesByPublishDate%22%2C%22newDeathsByDeathDate%22%3A%22newDeathsByDeathDate%22%2C%22cumDeathsByDeathDate%22%3A%22cumDeathsByDeathDate%22%2C%22hospitalCases%22%3A%22hospitalCases%22%2C%22covidOccupiedMVBeds%22%3A%22covidOccupiedMVBeds%22%2C%22cumCasesBySpecimenDateRate%22%3A%22cumCasesBySpecimenDateRate%22%7D&format=json&page=2 HTTP/1.1" 204 0
+INFO:root:[{'title': '12.00 Update', 'content': '4592'}, {'title': '18.00 Update', 'content': '26192'}, {'title': '24.00 Update', 'content': '47791'}, {'title': 'alarm', 'content': '20'}]
